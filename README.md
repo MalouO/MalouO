@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**MalouO/MalouO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MalouO/MalouO** is a ✨ _special_ ✨ repository.
 
 
 - 🔭 I’m currently working on this and that. 
